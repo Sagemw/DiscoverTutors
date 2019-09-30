@@ -6,6 +6,6 @@ Get Connected To Professional Tutors using Discover Tutors.
 Material Design UI
 Dashboard Management
 
-STACKS
-Firebase Auth
+STACKS<br>
+Firebase<br>
 Java
